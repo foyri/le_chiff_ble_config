@@ -34,6 +34,16 @@
             bindings = <&kp GRAVE>;
             key-positions = <0 1>;
         };
+
+        locklayer {
+            bindings = <&tog 5>;
+            key-positions = <0 1 2 3>;
+        };
+
+        bspc {
+            bindings = <&kp BSPC>;
+            key-positions = <16 17>;
+        };
     };
 
     behaviors {
