@@ -31,7 +31,7 @@ layers:
   - RS(TAB)
   - $$mdi:keyboard-tab$$
   - $$mdi:apple-keyboard-caps$$
-  - $$mdi:keyboard-tab$$
+  - $$mdi:keyboard-esc$$
   - $$mdi:apple-keyboard-command$$
   - $$mdi:volume-off$$
   - {t: '$$mdi:keyboard-space$$', h: '1'}

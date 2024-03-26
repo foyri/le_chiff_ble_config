@@ -565,7 +565,7 @@ path.combo {
 </g>
 <g transform="translate(200, 280)" class="key keypos-30">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
-<use href="#mdi:keyboard-tab" xlink:href="#mdi:keyboard-tab" x="-13" y="-13" height="26" width="26.0" class="key tap glyph mdi:keyboard-tab"/>
+<use href="#mdi:keyboard-esc" xlink:href="#mdi:keyboard-esc" x="-13" y="-13" height="26" width="26.0" class="key tap glyph mdi:keyboard-esc"/>
 </g>
 <g transform="translate(320, 280)" class="key keypos-31">
 <rect rx="4" ry="4" x="-78" y="-38" width="157" height="77" class="key"/>
