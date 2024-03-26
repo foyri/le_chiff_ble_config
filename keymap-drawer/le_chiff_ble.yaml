@@ -223,3 +223,7 @@ combos:
   k: '~'
 - p: [0, 1]
   k: '`'
+- p: [0, 1, 2, 3]
+  k: {t: '5', h: toggle}
+- p: [16, 17]
+  k: {t: '$$mdi:backspace$$', type: backspace}

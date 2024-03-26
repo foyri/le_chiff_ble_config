@@ -599,6 +599,17 @@ path.combo {
 <rect rx="4" ry="4" x="62" y="22" width="36" height="36" class="combo"/>
 <text x="80" y="40" class="combo tap">`</text>
 </g>
+<g class="combo combopos-3">
+<path d="M160,40 l-93,0" class="combo"/>
+<path d="M160,40 l93,0" class="combo"/>
+<rect rx="4" ry="4" x="142" y="22" width="36" height="36" class="combo"/>
+<text x="160" y="40" class="combo tap">5</text>
+<text x="160" y="54" class="combo hold"><tspan style="font-size: 83%">toggle</tspan></text>
+</g>
+<g class="combo backspace combopos-4">
+<rect rx="4" ry="4" x="702" y="102" width="36" height="36" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="707" y="107" height="26" width="26.0" class="combo backspace tap glyph mdi:backspace"/>
+</g>
 </g>
 </g>
 <g transform="translate(0, 320)" class="layer-1">
@@ -772,6 +783,17 @@ path.combo {
 <rect rx="4" ry="4" x="62" y="22" width="36" height="36" class="combo"/>
 <text x="80" y="40" class="combo tap">`</text>
 </g>
+<g class="combo combopos-3">
+<path d="M160,40 l-93,0" class="combo"/>
+<path d="M160,40 l93,0" class="combo"/>
+<rect rx="4" ry="4" x="142" y="22" width="36" height="36" class="combo"/>
+<text x="160" y="40" class="combo tap">5</text>
+<text x="160" y="54" class="combo hold"><tspan style="font-size: 83%">toggle</tspan></text>
+</g>
+<g class="combo backspace combopos-4">
+<rect rx="4" ry="4" x="702" y="102" width="36" height="36" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="707" y="107" height="26" width="26.0" class="combo backspace tap glyph mdi:backspace"/>
+</g>
 </g>
 </g>
 <g transform="translate(0, 640)" class="layer-2">
@@ -930,6 +952,17 @@ path.combo {
 <rect rx="4" ry="4" x="62" y="22" width="36" height="36" class="combo"/>
 <text x="80" y="40" class="combo tap">`</text>
 </g>
+<g class="combo combopos-3">
+<path d="M160,40 l-93,0" class="combo"/>
+<path d="M160,40 l93,0" class="combo"/>
+<rect rx="4" ry="4" x="142" y="22" width="36" height="36" class="combo"/>
+<text x="160" y="40" class="combo tap">5</text>
+<text x="160" y="54" class="combo hold"><tspan style="font-size: 83%">toggle</tspan></text>
+</g>
+<g class="combo backspace combopos-4">
+<rect rx="4" ry="4" x="702" y="102" width="36" height="36" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="707" y="107" height="26" width="26.0" class="combo backspace tap glyph mdi:backspace"/>
+</g>
 </g>
 </g>
 <g transform="translate(0, 960)" class="layer-3">
@@ -1087,6 +1120,17 @@ path.combo {
 <g class="combo combopos-2">
 <rect rx="4" ry="4" x="62" y="22" width="36" height="36" class="combo"/>
 <text x="80" y="40" class="combo tap">`</text>
+</g>
+<g class="combo combopos-3">
+<path d="M160,40 l-93,0" class="combo"/>
+<path d="M160,40 l93,0" class="combo"/>
+<rect rx="4" ry="4" x="142" y="22" width="36" height="36" class="combo"/>
+<text x="160" y="40" class="combo tap">5</text>
+<text x="160" y="54" class="combo hold"><tspan style="font-size: 83%">toggle</tspan></text>
+</g>
+<g class="combo backspace combopos-4">
+<rect rx="4" ry="4" x="702" y="102" width="36" height="36" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="707" y="107" height="26" width="26.0" class="combo backspace tap glyph mdi:backspace"/>
 </g>
 </g>
 </g>
@@ -1253,6 +1297,17 @@ path.combo {
 <rect rx="4" ry="4" x="62" y="22" width="36" height="36" class="combo"/>
 <text x="80" y="40" class="combo tap">`</text>
 </g>
+<g class="combo combopos-3">
+<path d="M160,40 l-93,0" class="combo"/>
+<path d="M160,40 l93,0" class="combo"/>
+<rect rx="4" ry="4" x="142" y="22" width="36" height="36" class="combo"/>
+<text x="160" y="40" class="combo tap">5</text>
+<text x="160" y="54" class="combo hold"><tspan style="font-size: 83%">toggle</tspan></text>
+</g>
+<g class="combo backspace combopos-4">
+<rect rx="4" ry="4" x="702" y="102" width="36" height="36" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="707" y="107" height="26" width="26.0" class="combo backspace tap glyph mdi:backspace"/>
+</g>
 </g>
 </g>
 <g transform="translate(0, 1600)" class="layer-5">
@@ -1411,6 +1466,17 @@ path.combo {
 <g class="combo combopos-2">
 <rect rx="4" ry="4" x="62" y="22" width="36" height="36" class="combo"/>
 <text x="80" y="40" class="combo tap">`</text>
+</g>
+<g class="combo combopos-3">
+<path d="M160,40 l-93,0" class="combo"/>
+<path d="M160,40 l93,0" class="combo"/>
+<rect rx="4" ry="4" x="142" y="22" width="36" height="36" class="combo"/>
+<text x="160" y="40" class="combo tap">5</text>
+<text x="160" y="54" class="combo hold"><tspan style="font-size: 83%">toggle</tspan></text>
+</g>
+<g class="combo backspace combopos-4">
+<rect rx="4" ry="4" x="702" y="102" width="36" height="36" class="combo backspace"/>
+<use href="#mdi:backspace" xlink:href="#mdi:backspace" x="707" y="107" height="26" width="26.0" class="combo backspace tap glyph mdi:backspace"/>
 </g>
 </g>
 </g>
