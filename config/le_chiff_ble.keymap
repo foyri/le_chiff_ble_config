@@ -44,6 +44,11 @@
             bindings = <&kp BSPC>;
             key-positions = <16 17>;
         };
+
+        caps {
+            bindings = <&kp CAPS>;
+            key-positions = <7 8>;
+        };
     };
 
     behaviors {
