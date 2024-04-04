@@ -20,7 +20,7 @@ layers:
   - {t: J, h: '$$mdi:apple-keyboard-option$$'}
   - {t: K, h: '$$mdi:apple-keyboard-control$$'}
   - {t: L, h: RIGHT GUI}
-  - {t: '$$mdi:apple-keyboard-caps$$', h: '$$mdi:apple-keyboard-shift$$'}
+  - {t: LG(LS(SPACE)), h: '$$mdi:apple-keyboard-shift$$'}
   - Z
   - X
   - C
@@ -227,3 +227,5 @@ combos:
   k: {t: '5', h: toggle}
 - p: [16, 17]
   k: {t: '$$mdi:backspace$$', type: backspace}
+- p: [17, 18]
+  k: $$mdi:apple-keyboard-caps$$
