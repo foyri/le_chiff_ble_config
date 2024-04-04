@@ -227,3 +227,5 @@ combos:
   k: {t: '5', h: toggle}
 - p: [16, 17]
   k: {t: '$$mdi:backspace$$', type: backspace}
+- p: [7, 8]
+  k: $$mdi:apple-keyboard-caps$$
