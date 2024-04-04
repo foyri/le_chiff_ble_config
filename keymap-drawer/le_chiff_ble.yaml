@@ -30,7 +30,7 @@ layers:
   - M
   - RS(TAB)
   - $$mdi:keyboard-tab$$
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - $$mdi:apple-keyboard-caps$$
   - $$mdi:apple-keyboard-caps$$
   - $$mdi:apple-keyboard-command$$
   - $$mdi:volume-off$$
@@ -227,5 +227,3 @@ combos:
   k: {t: '5', h: toggle}
 - p: [16, 17]
   k: {t: '$$mdi:backspace$$', type: backspace}
-- p: [17, 18]
-  k: $$mdi:apple-keyboard-caps$$
