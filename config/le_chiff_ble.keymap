@@ -44,6 +44,11 @@
             bindings = <&kp BSPC>;
             key-positions = <16 17>;
         };
+
+        caps {
+            bindings = <&kp CAPS>;
+            key-positions = <17 18>;
+        };
     };
 
     behaviors {
@@ -66,12 +71,12 @@
             label = "Qwerty";
             bindings = <
 &kp Q             &kp W           &kp E         &kp R           &kp T         &kp Y       &kp U            &kp I        &kp O            &kp P
-&hm LEFT_SHIFT A  &hm LEFT_GUI S  &hm LCTRL D   &hm LEFT_ALT F  &lt 4 G       &kp H       &hm RIGHT_ALT J  &hm RCTRL K  &hm RIGHT_GUI L  &hm RIGHT_SHIFT CAPSLOCK
+&hm LEFT_SHIFT A  &hm LEFT_GUI S  &hm LCTRL D   &hm LEFT_ALT F  &lt 4 G       &kp H       &hm RIGHT_ALT J  &hm RCTRL K  &hm RIGHT_GUI L  &hm RIGHT_SHIFT LG(LS(SPACE))
 &kp Z             &kp X           &kp C         &kp V           &lt 2 B       &kp N       &kp M            &kp RS(TAB)  &kp TAB          &kp BSPC
                                   &kp CAPSLOCK                  &kp LEFT_GUI  &kp C_MUTE  &lt 1 SPACE                   &lt 3 ENTER
             >;
 
-            sensor-bindings = <&inc_dec_kp LS(DOWN) LS(UP)>;
+            sensor-bindings = <&inc_dec_kp DOWN LS(UP)>;
         };
 
         layer_1 {
