@@ -20,7 +20,7 @@ layers:
   - {t: J, h: '$$mdi:apple-keyboard-option$$'}
   - {t: K, h: '$$mdi:apple-keyboard-control$$'}
   - {t: L, h: RIGHT GUI}
-  - {t: LG(LS(SPACE)), h: '$$mdi:apple-keyboard-shift$$'}
+  - $$mdi:apple-keyboard-shift$$
   - Z
   - X
   - C
@@ -28,10 +28,10 @@ layers:
   - {t: B, h: '2'}
   - N
   - M
-  - RS(TAB)
+  - Sft+ $$mdi:keyboard-tab$$
   - $$mdi:keyboard-tab$$
   - $$mdi:apple-keyboard-caps$$
-  - $$mdi:apple-keyboard-caps$$
+  - Sft+Gui+ $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-command$$
   - $$mdi:volume-off$$
   - {t: '$$mdi:keyboard-space$$', h: '1'}
@@ -63,9 +63,9 @@ layers:
   - {t: '''', s: '"'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - LG(LEFT)
+  - Gui+ $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
-  - LG(RIGHT)
+  - Gui+ $$mdi:arrow-right-bold$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}

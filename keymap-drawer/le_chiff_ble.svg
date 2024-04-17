@@ -519,8 +519,7 @@ path.combo {
 </g>
 <g transform="translate(920, 120)" class="key keypos-19">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 60%">LG(LS(SPACE))</tspan></text>
-<use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="-9" y="16" height="18" width="18.0" class="key hold glyph mdi:apple-keyboard-shift"/>
+<use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="-13" y="-13" height="26" width="26.0" class="key tap glyph mdi:apple-keyboard-shift"/>
 </g>
 <g transform="translate(40, 200)" class="key keypos-20">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
@@ -553,7 +552,9 @@ path.combo {
 </g>
 <g transform="translate(760, 200)" class="key keypos-27">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 71%">RS(TAB)</tspan></text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.5em" style="font-size: 60%">Sft+</tspan><tspan x="0" dy="1.0em" style="font-size: 60%">$$mdi:keyboard-tab$$</tspan>
+</text>
 </g>
 <g transform="translate(840, 200)" class="key keypos-28">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
@@ -565,7 +566,9 @@ path.combo {
 </g>
 <g transform="translate(200, 280)" class="key keypos-30">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
-<use href="#mdi:apple-keyboard-caps" xlink:href="#mdi:apple-keyboard-caps" x="-13" y="-13" height="26" width="26.0" class="key tap glyph mdi:apple-keyboard-caps"/>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.5em" style="font-size: 60%">Sft+Gui+</tspan><tspan x="0" dy="1.0em" style="font-size: 60%">$$mdi:keyboard-space$$</tspan>
+</text>
 </g>
 <g transform="translate(320, 280)" class="key keypos-31">
 <rect rx="4" ry="4" x="-78" y="-38" width="157" height="77" class="key"/>
@@ -740,7 +743,9 @@ path.combo {
 </g>
 <g transform="translate(680, 200)" class="key keypos-26">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 62%">LG(LEFT)</tspan></text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.5em" style="font-size: 60%">Gui+</tspan><tspan x="0" dy="1.0em" style="font-size: 60%">$$mdi:arrow-left-bold$$</tspan>
+</text>
 </g>
 <g transform="translate(760, 200)" class="key keypos-27">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
@@ -748,7 +753,9 @@ path.combo {
 </g>
 <g transform="translate(840, 200)" class="key keypos-28">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 60%">LG(RIGHT)</tspan></text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.5em" style="font-size: 60%">Gui+</tspan><tspan x="0" dy="1.0em" style="font-size: 60%">$$mdi:arrow-right-bold$$</tspan>
+</text>
 </g>
 <g transform="translate(920, 200)" class="key trans keypos-29">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key trans"/>
